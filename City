@@ -1,0 +1,2 @@
+// Example code to load new city
+LevelManager::LoadLevel("new_city");
